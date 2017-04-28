@@ -23,7 +23,7 @@
 # Prefixes found only in the ITU doc (used for en file) were translated using
 # Wikipedia.
 
-733622|Байконыр
+7978|Республика Крым
 77102|Жезказган
 77103|Жезказган
 771030|Жана-Аркинский р-н
